@@ -1,7 +1,7 @@
 # AddingMachine
 create a client side adding machine, in typescript, using the  Dijkstra’s two-stack evaluator.
 
-It should look something like this:
+It should look something like this when you load the app's URL into a Chrome browser:
 ![Mockup](AddingMachine.png)
 
 And you should use this evaluator (but first translate it into Typescript) for a start:
