@@ -39,3 +39,4 @@ public class Calculate {
     }
 }
 ```
+You will also need to translate the `Stack.java` class to typescript as well.
