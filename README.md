@@ -1,9 +1,9 @@
 # Adding Machine - Happy Independence Day 2019.
 
 For your long weekend project, 
-create a client-side adding machine that runs in a borwser, in [Typescript](https://www.typescriptlang.org/), using Dijkstra’s two-stack evaluator. Your needs have only one page, so carefully read the notes in the diagram below.
+create a client-side adding machine that runs in a browser, in [Typescript](https://www.typescriptlang.org/), using Dijkstra’s two-stack evaluator. Your app needs have only one page, so carefully read the notes in the diagram below.
 
-But first, you should learn you some Typescript. Read why it was created and why people use it.
+But first, you should `learn you some Typescript`. Read why it was created and why people use it. Find out how to implement a single page web using Typescript. 
 
 It should look something like this when you load the app's URL into a Chrome browser:
 ![Mockup](AddingMachine.png)
