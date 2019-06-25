@@ -44,3 +44,9 @@ public class Calculate {
 }
 ```
 You will also need to translate the `Stack.java` class to typescript as well.
+
+## Visual Studio Code
+
+I heartily recommend you download and use [Visual Studio Code](https://code.visualstudio.com/) as your IDE for this project. VSC has all kinds of cool Typescript tools (and it is in fact written in Typescript itself). VSC has many of the same features that IntelliJ has, so it should feel quite familiar. 
+
+-K
