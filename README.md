@@ -45,6 +45,8 @@ public class Calculate {
 ```
 You will also need to translate the `Stack.java` class to typescript as well.
 
+You might wish to apply all your new fancy skills from doing the [YouAreEllClient](https://github.com/Zipcoder/ZCW-MesoLab-YouAreEllClient) lab.
+
 ## Visual Studio Code
 
 I heartily recommend you download and use [Visual Studio Code](https://code.visualstudio.com/) as your IDE for this project. VSC has all kinds of cool Typescript tools (and it is in fact written in Typescript itself). VSC has many of the same features that IntelliJ has, so it should feel quite familiar. Once you have downloaded VSC, you can install Typescript itself, and then see all the magic VSC can do for you when working in Typescript. See [VSC Support For Typescript](https://code.visualstudio.com/Docs/languages/typescript)
