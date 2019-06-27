@@ -45,7 +45,7 @@ public class Calculate {
 ```
 You will also need to translate the `Stack.java` class to typescript as well.
 
-You might wish to apply all your new fancy skills from doing the [YouAreEllClient](https://github.com/Zipcoder/ZCW-MesoLab-YouAreEllClient) lab.
+You might wish to apply all your new fancy skills from doing the [YouAreEllClient](https://github.com/Zipcoder/ZCW-MesoLab-YouAreEllClient) la.b
 
 ## Visual Studio Code
 
