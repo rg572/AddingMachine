@@ -43,9 +43,16 @@ public class Calculate {
     }
 }
 ```
-You will also need to translate the `Stack.java` class to typescript as well.
+You should also translate the `Stack.java` class to typescript as well. I've given you an example. Can you make yours better?
 
 You might wish to apply all your new fancy skills from doing the [YouAreEllClient](https://github.com/Zipcoder/ZCW-MesoLab-YouAreEllClient) la.b
+
+## Node, npm & Angular
+
+You probably need to install Node/NPM and Angular. [TS and Node install](https://dzone.com/articles/how-to-install-typescript-and-nodejs-typescript-tu-1)
+
+You can install angular once you've installed TS and Node. 
+`npm install -g @angular/cli`
 
 ## Visual Studio Code
 
