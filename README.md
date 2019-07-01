@@ -10,6 +10,9 @@ I've given you an app skeleton (which runs) and added the two components you nee
 It should look something like this when you load the app's URL into a Chrome browser:
 ![Mockup](AddingMachine.png)
 
+Notice the spaces in the inputs `( 4 + 5 )` - they are needed because of the simple
+version of how we break it into token for the evaluator.
+
 And you should use this evaluator (but first translate it into Typescript) for a start:
 ```java
 
