@@ -8,7 +8,7 @@ But first, you should `learn you some Typescript`. Read why it was created and w
 I've given you an app skeleton (which runs) and added the two components you need to wire and add behavior to. See `src/app/text-area` and `src/app/text-input`. If you use the builtin VSC terminal (see below), you can run the current app with `ng serve --open`, which will run the single page app and open a browser pointed at the app's main page. 
 
 It should look something like this when you load the app's URL into a Chrome browser:
-![Mockup](AddingMachine.png)
+![Mockup](AddingMachine2.png)
 
 And you should use this evaluator (but first translate it into Typescript) for a start:
 ```java
