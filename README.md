@@ -48,7 +48,9 @@ public class Calculate {
     }
 }
 ```
-You should also translate the `Stack.java` class to typescript as well. I've given you an example. Can you make yours better?
+This is the class that requires spaces between every item in the string, so `( 4 + 5 )` which allows the evaluator to perform the complete calculation.
+
+You should also translate the `Stack.java` class to typescript as well. I've given you an example of a stack in typescript. Can you make yours better?
 
 You might wish to apply all your new fancy skills from doing the [YouAreEllClient](https://github.com/Zipcoder/ZCW-MesoLab-YouAreEllClient) lab.
 
