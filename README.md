@@ -5,7 +5,7 @@ create an adding machine app that runs in a browser, in [Typescript](https://www
 
 But first, you should `learn you some Typescript`. Read why it was created and why people use it. Find out how to implement a single page web using Typescript? Maybe a simple Typescript tutorial?
 
-I've given you an app skeleton (which runs) and added the two components you need to wire and add behavior to. See `src/app/text-area` and `src/app/text-input`. If you use the builtin VSC terminal (see below), you can run the current app with `ng serve --open`, which will run the single page app and open a browser pointed at the app's main page. 
+I've given you an app skeleton (which runs) and added the two components you need to wire and add behavior to. See `src/app/text-area` and `src/app/text-input`. If you use the builtin VSC terminal (see below), you can run the current app with `npm install` followed by `ng serve --open`, which will run the single page app and open a browser pointed at the app's main page. 
 
 It should look something like this when you load the app's URL into a Chrome browser:
 ![Mockup](AddingMachine.png)
