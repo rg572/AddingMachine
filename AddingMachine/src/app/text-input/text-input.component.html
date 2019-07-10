@@ -1,3 +1,11 @@
-<pre>Output goes here. {{log}}</pre>
+<textarea #outputArea readonly="readonly" id="outputArea" rows="15" cols="50" [(ngModel)]="logString"></textarea>
+<div>
+    <label>current value: {{currentValue}}</label>
+</div>
 <hr />
-<p>text-input goes here! You need to change this to a text input field.</p>
+<div>
+        <input [(ngModel)]="inputString" placeholder="input goes here"/>
+</div>
+<div>
+    <button (click)="submit()">calculate!</button>
+</div>

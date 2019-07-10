@@ -1,0 +1,6 @@
+#outputArea{
+    max-height: 95px;
+    min-height: 95px;
+    resize: none;
+    overflow-y: scroll;
+}
